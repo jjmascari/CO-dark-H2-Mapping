@@ -13,10 +13,3 @@ The goal of this project is to identify regions of **molecular hydrogen not trac
 - Creating **radial profiles** for analysis
 
 ---
-
-## 📂 Dependencies
-
-This project uses the following Python libraries:
-
-```bash
-pip install numpy astropy matplotlib scipy pandas reproject
