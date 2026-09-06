@@ -4,7 +4,7 @@ This repository contains Python code for generating **CO-dark molecular hydrogen
 
 ## Overview
 
-The goal of this project is to identify regions of **molecular hydrogen not traced by CO emission**—commonly referred to as **CO-dark H₂**—by combining multi-wavelength astronomical data and aligning them onto a common coordinate system.
+The goal of this project is to identify regions of **molecular hydrogen not traced by CO emission**, commonly referred to as **CO-dark H₂**—by combining multi-wavelength astronomical data and aligning them onto a common coordinate system.
 
 ### Includes:
 
